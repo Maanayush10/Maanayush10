@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=Maanayush10&color=green)
 <div align="center">
 <h1> 🤚 Hello World</h1>
   </div>
