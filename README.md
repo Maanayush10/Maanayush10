@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
 <h3 align="center">Hacking the world, one line of code at a time.</h3>
 
-<center><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=100% ></img></center>
+![coder-giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanayush10&label=Profile%20views&color=0e75b6&style=flat" alt="maanayush10" /> </p>
 
