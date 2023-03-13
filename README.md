@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
 <h3 align="center">Hacking the world, one line of code at a time.</h3>
 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanayush10&label=Profile%20views&color=0e75b6&style=flat" alt="maanayush10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanayush10" alt="maanayush10" /></a> </p>
