@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width= 100%></img>
 
-<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=maanayush10&label=Profile%20views&color=0e75b6&style=flat" alt="maanayush10" /> </p></center>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maanayush10&label=Profile%20views&color=0e75b6&style=flat" alt="maanayush10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanayush10" alt="maanayush10" /></a> </p>
 
