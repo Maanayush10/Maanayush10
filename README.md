@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **how to sleep effectively.**
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently learning **NextJS.**
 
 - 👯 I’m looking to collaborate on **Watching anime (only if you have good suggestions :P).**
 
