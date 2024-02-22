@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/elayushman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elayushman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushman10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman10" height="30" width="40" /></a>
+<a href="https://leetcode.com/Polybotes10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gauthamprabhum/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
